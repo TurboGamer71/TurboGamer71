@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TurboGamer71! 
+- 👋 Hi, I’m TurboGamer71! 
 - 👀 I'm not a professional. 
 - 🌱 I’m currently learning Javascript and Angular. 
 - 📫 TurboGamer71#4981 
