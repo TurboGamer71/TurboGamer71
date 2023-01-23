@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TurboGamer71! 
 - 👀 I'm not a professional. 
-- 🌱 I’m currently learning Javascript, HTML, CSS/SCSS, Typescript
+- 🌱 I’m currently learning Javascript, HTML, CSS/SCSS, Typescript, Php
 - 📫 TurboGamer71#4981 
 
 <!---
